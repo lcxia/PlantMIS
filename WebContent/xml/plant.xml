@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phylum name="被子植物门">
+	<class id="00000" name="双子叶植物纲">
+		<order id="00100" name="茄目">
+			<family id="00110" name="茄科">
+				<genus id="00111" name="茄属">
+				</genus>
+				<genus id="00112" name="辣椒属">
+				</genus>
+			</family>
+		</order>
+		<order id="00200" name="桔梗目">
+			<family id="00210" name="桔梗科">
+				<genus id="00211" name="沙参属">
+				</genus>
+			</family>
+			<family id="00220" name="菊科">
+				<genus id="00221" name="菊属">
+				</genus>
+				<genus id="00222" name="向日葵属">
+				</genus>
+			</family>
+		</order>
+		<order id="00300" name="锦葵目">
+			<family id="00310" name="锦葵科">
+				<genus id="00311" name="锦属">
+				</genus>
+			</family>
+		</order>
+		<order id="00400" name="杜鹃花目">
+			<family id="00410" name="山茶科">
+				<genus id="00411" name="山茶属">
+				</genus>
+			</family>
+		</order>
+		<order id="00500" name="白花菜目">
+			<family id="00510" name="十字花科">
+				<genus id="00511" name="芸薹属">
+				</genus>
+			</family>
+		</order>
+		<order id="00600" name="蔷薇目">
+			<family id="00610" name="豆科">
+				<genus id="00611" name="落花生属">
+				</genus>
+			</family>
+			<family id="00620" name="蔷薇科">
+				<genus id="00621" name="甜菜属">
+				</genus>
+			</family>
+		</order>
+		<order id="00700" name="石竹目">
+			<family id="00710" name="藜科">
+				<genus id="00711" name="苹果属">
+				</genus>
+			</family>
+		</order>
+	</class>
+	<class id="01000" name="单子叶植物纲">
+		<order id="01100" name="百合目">
+			<family id="01110" name="百合科">
+				<genus id="01111" name="百合属">
+				</genus>
+				<genus id="01112" name="芦荟属">
+				</genus>
+			</family>
+		</order>
+		<order id="01200" name="禾本目">
+			<family id="01210" name="禾本科">
+				<genus id="01211" name="稻属">
+				</genus>
+				<genus id="01212" name="甘蔗属">
+				</genus>
+				<genus id="01213" name="小麦属">
+				</genus>
+				<genus id="01214" name="高粱属 ">
+				</genus>
+			</family>
+		</order>
+		<order id="01300" name="姜目">
+			<family id="01310" name="姜科">
+				<genus id="01311" name="姜属">
+				</genus>
+			</family>
+		</order>
+	</class>
+</phylum>
